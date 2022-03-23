@@ -110,6 +110,8 @@ marp: false
 
 **Fortran**: Lenguaje de programación de alto nivel de propósito general, procedimental e imperativo, que está especialmente adaptado al cálculo numérico y a la computación científica. [M2 T2]
 
+**Funciones Built-In**: el interprete Python tiene un número de funciones integradas (built-in) dentro del módulo __builtins__, las cuales están siempre disponibles.
+
 ## G
 
 **Gadget**: pequeña aplicación cuyo objetivo es proporcionar ayuda y fácil acceso a las principales funcionalidades. También conocida como widget. [M1 T1] 
