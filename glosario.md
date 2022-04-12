@@ -88,6 +88,8 @@ marp: false
 
 **Data warehouse**: es una colección de datos orientada a un determinado ámbito (empresa, organización, etc.), integrado, no volátil y variable en el tiempo, que ayuda a la toma de decisiones en la entidad en la que se utiliza [M1 T2]
 
+**Decoradores**: Los decoradores son funciones que modifican el comportamiento de otras funciones, ayudan a acortar nuestro código y hacen que sea más del estilo Python. 
+
 **Deepfake**: técnica de edición de vídeo basada en aprendizaje profundo para crear un vídeo falso que emula gestos faciales. [M1 T2]
 
 **DevOps**: prácticas que agrupan el desarrollo de software y las operaciones de TI. [M1 T2]
@@ -185,6 +187,9 @@ marp: false
 **OR lógico**: conector lógico, cuyo valor de la verdad resulta falso solo si ambas proposiciones de entrada son falsas, y en cierto de cualquier otra forma. [M2 T1]
 
 ## P
+**Paso por valor** Un lenguaje de programación que utiliza paso por valor de los argumentos, lo que realmente hace es copiar el valor de las variables en los respectivos parámetros. Cualquier modificación del valor del parámetro, no afecta a la variable externa correspondiente
+
+**Paso por referencia** Un lenguaje de programación que utiliza paso por referencia, lo que realmente hace es copiar en los parámetros la dirección de memoria de las variables que se usan como argumento. Esto implica que realmente hagan referencia al mismo objeto/elemento y cualquier modificación del valor en el parámetro afectará a la variable externa correspondiente.
 
 **Plataforma como servicio (PaaS)**: modelo de contratación de servicios en la nube en el que las empresas construyen servicios sobre determinadas plataformas. [M1 T2]
 
